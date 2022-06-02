@@ -1,10 +1,10 @@
-#####################################################
-# 	Script for: Measuring memory of SOC and VUC.	#		
-# 	Output: written to XL file						#
-# 	Input files: topGrep.txt, sizes_RH850.txt		#
-# 	topGrep.txt: for SOC memory						#
-# 	sizes_RH850.txt: for VUC memory					#
-#####################################################
+#################################################
+#  Script for: Measuring memory of SOC and VUC.	#		
+#  Output: written to XL file			#
+#  Input files: topGrep.txt, sizes_RH850.txt	#
+#  topGrep.txt: for SOC memory			#
+#  sizes_RH850.txt: for VUC memory		#
+#################################################
 
 import os
 import re
