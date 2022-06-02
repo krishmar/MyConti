@@ -1,9 +1,9 @@
-#####################################################
-# 	Script for: Check for matching commits before	#			 
-#				and after build finish				#	
-# 	Output: Result output in "commitReport.txt"		#
-# 	Input files: DI_Query.txt						#
-#####################################################
+#########################################################
+#  Script for: Check for matching commits before	#			 
+#				and after build finish	#	
+#  Output: Result output in "commitReport.txt"		#
+#  Input files: DI_Query.txt				#
+#########################################################
 
 
 
