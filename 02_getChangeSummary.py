@@ -2,7 +2,7 @@
 #   Script for: Get list of the commints in the     #            
 #               given baseline version input        #   
 #   Output: change-summary_SOC/VUC_SW_ver.txt       #
-#   Input: Sofware baseline version                     #
+#   Input: Sofware baseline version                 #
 #####################################################
 
 
